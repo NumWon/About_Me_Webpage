@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Naumaan Sheikh Portfolio</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <header>
+      <!-- <img src="/Users/naumaan/Pictures/logo.png" class="logo"> -->
+      <h1 class="logo">Naumaan Sheikh</h1>
+    </header>
+
+    <div class="main">
+      <div class="first">
+
+        <h4 class="headings">About Me</h4>
+        <p class="box1">Hey there, my name is Naumaan Sheikh. I am currently a computer engineering student (2A) at the University of Waterloo with a lot of interest in both hardware and software projects. Over the past year, I have had my first year of experience in a university which I've found to be incredibly more difficult than high school, however, because of the coronavirus, I haven't enjoyed or experienced university life nearly as much as I had hoped to. But this is just another adversity for me to overcome and I'm looking forward to the future to see  what other challenges it has in store for me.</p>
+        <img src="/Users/naumaan/Pictures/Pic_Of_Me.jpeg" class="box1">
+
+      </div>
+
+      <div class="second">
+
+        <h4 class="headings">Hobbies</h4>
+        <img src="/Users/naumaan/Pictures/pc parts.jpeg" class="box2">
+        <p class="box2">Ever since I was around 12 years old, I've had a growing interest and curiosity for technology. I first learned how to program in grade 11 and have learned and surpassed many of my colleagues as I continue to advance my knowledge on my interests. Now, as a computer engineering student, I hope to gain the base knowledge needed to continue on my journey. Some of my other interests include playing sports, particularly 100m sprints, cricket and basketball with friends, and many other physically exerting exercises. I also enjoy playing games like chess, sudoku, pool, and video games on my computer. Speaking of computers, I also enjoy tinkering with technological devices which led me to build my own desktop in 2018. I'm always open to try and experience new things as it gives me excitement and grows my curiosity.</p>
+
+      </div>
+
+      <div class="third">
+
+        <h4 class="headings">Projects</h4>
+        <p class="box3">Now apart from my hobbies, I find it quite difficult to find the motivation to begin working on projects with the entire Covid-19 pandemic. However, I know that if I don't put the effort in now, I never will. So I've decided to build my first webpage to grow my projects. A few projects that I've already worked on in the past couple years include building, designing, and programming VEX robots for my high school club, building a drone using an Arduino with my friend and integrating an Othello AI into a game board created using an Arduino, Raspberry Pi, 128 LEDs and 16 resistors with a group of 4 friends. Along with these projects, I have also competed in the 2021 Eng Hack hackathon and the Halton Skills Coding Competition.</p>
+        <img src="/Users/naumaan/Pictures/collage.png" class="box3">
+
+      </div>
+    </div>
+
+  </body>
+</html>
+
+<!-- shorten paragraphs and reword -->
